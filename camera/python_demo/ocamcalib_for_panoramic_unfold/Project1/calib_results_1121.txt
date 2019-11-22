@@ -1,0 +1,20 @@
+#polynomial coefficients for the DIRECT mapping function (ocam_model.ss in MATLAB). These are used by cam2world
+
+5 -6.221180e+02 0.000000e+00 3.231086e-04 4.510083e-07 -1.465223e-10 
+
+#polynomial coefficients for the inverse mapping function (ocam_model.invpol in MATLAB). These are used by world2cam
+
+14 996.117583 707.993636 218.533434 248.985375 177.574519 150.714522 119.713933 76.872973 110.818000 201.873034 226.991171 144.572597 48.410272 6.632858 
+
+#center: "row" and "column", starting from 0 (C convention)
+
+1053.5 1177.5
+
+#affine parameters "c", "d", "e"
+
+1.000291 -0.000348 -0.000322
+
+#image size: "height" and "width"
+
+2048 2448
+
